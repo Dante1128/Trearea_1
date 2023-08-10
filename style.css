@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(92,92,88);
+}
+
+.circle{
+    background-color:rgb(194, 0, 0) ;
+    border-radius: 500px;
+    width: 70px;
+    height: 70px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 105px;
+    margin-top: -50px;
+    padding: 10px;
+    position: absolute;
+    border-radius:50% ;
+    border: 5px solid white;
+}
+.padre{
+    background-color: white;
+    height: 220px;
+    text-align: center;
+    border-radius: 2em;
+    width: 300px;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.text-h1{
+    font-size: 12px;
+    margin: auto;
+}
+h1{
+    font-size: 25px;
+    margin-top: 3rem;
+}
+
+button{
+    background-color: rgb(54, 145, 230);
+    border-radius: 1em;
+    border: 10px;
+    padding: 15px 40px;
+    margin: 4px 2px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: aqua;
+}
